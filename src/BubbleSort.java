@@ -23,8 +23,9 @@ public class BubbleSort {
 	
 	public static void main(String args[])
 	{
-		int[] arry1 = new int[4];
+		int[] arry1 = new int[5];
 		arry1[0]=22;
+		arry1[4]=33;
 		arry1[1]=230;
 		arry1[2]=23;
 		arry1[3]=202;
