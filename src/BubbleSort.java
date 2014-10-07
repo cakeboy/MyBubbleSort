@@ -26,7 +26,7 @@ public class BubbleSort {
 		int[] arry1 = new int[4];
 		arry1[0]=22;
 		arry1[1]=230;
-		arry1[2]=229;
+		arry1[2]=23;
 		arry1[3]=202;
 		
 		Sort(arry1);
