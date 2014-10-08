@@ -28,7 +28,7 @@ public class BubbleSort {
 		arry1[4]=33;
 		arry1[1]=230;
 		arry1[2]=23;
-		arry1[3]=202;
+		arry1[3]=222;
 		
 		Sort(arry1);
 		System.out.print("sort =");

@@ -1,0 +1,20 @@
+commit dda5849291cf6ed0e5e6bf6e94375a010f510e75
+Author: cakeboy <Benedict_Chien@asus.com>
+Date:   Tue Oct 7 19:25:25 2014 +0800
+
+    Add Quick Sort Class
+
+diff --git a/bin/QuickSort.class b/bin/QuickSort.class
+new file mode 100644
+index 0000000..a980283
+Binary files /dev/null and b/bin/QuickSort.class differ
+diff --git a/src/QuickSort.java b/src/QuickSort.java
+new file mode 100644
+index 0000000..f304229
+--- /dev/null
++++ b/src/QuickSort.java
+@@ -0,0 +1,4 @@
++
++public class QuickSort {
++
++}
